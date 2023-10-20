@@ -31,7 +31,7 @@ Contributions and improvements to this open-source ICU driver are welcome. If yo
 
 <div align="center">
   <p>Connect with me on <a href="https://www.linkedin.com/in/kareemmoneeam/">LinkedIn</a></p>
-  <p>Email: <a href="mailto:kareemmoneeam@outlook.com">Email</a></p>
+  <p>Email: <a href="mailto:kareemmoneeam@outlook.com">kareemmoneeam@outlook.com</a></p>
 </div>
 
 ---

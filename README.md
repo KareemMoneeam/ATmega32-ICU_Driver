@@ -23,7 +23,7 @@ The code is structured for clarity and ease of integration into your projects. D
 
 **Getting Started**
 
-To start using this AVR ICU driver, clone this repository and refer to the example code and comprehensive documentation provided in the "docs" folder. Capture external events with precision and efficiency!
+To start using this AVR ICU driver, clone this repository and refer to the example code. Capture external events with precision and efficiency!
 
 **Contributions**
 

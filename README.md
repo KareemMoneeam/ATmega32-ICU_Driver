@@ -30,11 +30,6 @@ To start using this AVR ICU driver, clone this repository and refer to the examp
 Contributions and improvements to this open-source ICU driver are welcome. If you have suggestions, bug fixes, or feature enhancements, please submit a pull request to support the community.
 
 <div align="center">
-  <img src="(https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png)" alt="LinkedIn Logo" width="40">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Outlook_logo_and_wordmark_%282012-2019%29.svg/2560px-Outlook_logo_and_wordmark_%282012-2019%29.svg.png" alt="Email Logo" width="40">
-</div>
-
-<div align="center">
   <p>Connect with me on <a href="https://www.linkedin.com/in/kareemmoneeam/">LinkedIn</a></p>
   <p>Email: <a href="mailto:kareemmoneeam@outlook.com">Email</a></p>
 </div>
